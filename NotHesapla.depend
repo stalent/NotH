@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392496068 source:/home/maverick/Dev/NotHesapla/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
